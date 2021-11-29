@@ -1,23 +1,19 @@
 # Depth First Search
 
-
-
-
-# Project Name
-- This repository contains the code for the project name. This project was done in language. Few Custom Lines that be copied over to the resume.
+- This repository contains the code for the project which invlolved a depth first search for the modelling of a complicated wrist watch. This project was done in python and the use of the pycharm editor.
 ---
 ### Skills gained at the completion of the project
-- List out skills as per the assessment brief
+- Converting a real world problem into mathematical notation 
+- Using the notation to plan out a way to solve the problem using graphs, trees and finite state automaton
+- Converting all this to python code that implements the solution
 ---
 ### Installation/Use instructions
--   Describe the architecture and components of modern operating systems.
--   Articulate industry standards and critically apply best practice for developing safety-critical systems.
--   Identify the potential societal and safety impact of systems programming failures.
--   Construct low-level systems programs to carry out authentic systems programming tasks.
+-   This can be run using an IDE or the IDLE shell.
 ---
 ### Completed Project
-- This is where you can put pictures
+- Given below is the model for the complicated wrist watch as a finite state automata
+- ![](StateChangeDiagram.png)
 ---
 ### Notes about the Project
-- open source can use/contribute to it
+- Further improvements can be made to the efficiency of the search and the possibility of adding a GUI to see visualize the workings of the project.
 ---
