@@ -12,7 +12,7 @@
 ---
 ### Completed Project
 - Given below is the model for the complicated wrist watch as a finite state automata
-- ![](StateChangeDiagram.png)
+![](StateChangeDiagram.png)
 ---
 ### Notes about the Project
 - Further improvements can be made to the efficiency of the search and the possibility of adding a GUI to see visualize the workings of the project.
