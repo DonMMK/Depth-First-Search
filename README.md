@@ -17,3 +17,7 @@
 ### Notes about the Project
 - Further improvements can be made to the efficiency of the search and the possibility of adding a GUI to see visualize the workings of the project.
 ---
+
+
+https://user-images.githubusercontent.com/71302996/151765152-97dab12c-c869-4a6b-8ec2-cd0036dd51d6.mp4
+
