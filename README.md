@@ -1,4 +1,4 @@
-# Depth First Search
+# Modelling a Wrist Watch in terms of mathematical and algorithmic structures
 
 - This repository contains the code for the project which invlolved a depth first search for the modelling of a complicated wrist watch. This project was done in python and the use of the pycharm editor.
 ---
